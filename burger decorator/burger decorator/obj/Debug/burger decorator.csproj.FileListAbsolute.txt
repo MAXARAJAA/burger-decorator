@@ -1,0 +1,11 @@
+C:\Users\bohsh\Desktop\visual\Builder\burger decorator\burger decorator\bin\Debug\burger decorator.exe.config
+C:\Users\bohsh\Desktop\visual\Builder\burger decorator\burger decorator\bin\Debug\burger decorator.exe
+C:\Users\bohsh\Desktop\visual\Builder\burger decorator\burger decorator\bin\Debug\burger decorator.pdb
+C:\Users\bohsh\Desktop\visual\Builder\burger decorator\burger decorator\obj\Debug\burger decorator.csproj.AssemblyReference.cache
+C:\Users\bohsh\Desktop\visual\Builder\burger decorator\burger decorator\obj\Debug\burger decorator.csproj.SuggestedBindingRedirects.cache
+C:\Users\bohsh\Desktop\visual\Builder\burger decorator\burger decorator\obj\Debug\burger_decorator.Form1.resources
+C:\Users\bohsh\Desktop\visual\Builder\burger decorator\burger decorator\obj\Debug\burger_decorator.Properties.Resources.resources
+C:\Users\bohsh\Desktop\visual\Builder\burger decorator\burger decorator\obj\Debug\burger decorator.csproj.GenerateResource.cache
+C:\Users\bohsh\Desktop\visual\Builder\burger decorator\burger decorator\obj\Debug\burger decorator.csproj.CoreCompileInputs.cache
+C:\Users\bohsh\Desktop\visual\Builder\burger decorator\burger decorator\obj\Debug\burger decorator.exe
+C:\Users\bohsh\Desktop\visual\Builder\burger decorator\burger decorator\obj\Debug\burger decorator.pdb
